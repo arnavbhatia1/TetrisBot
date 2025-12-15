@@ -1,4 +1,4 @@
-package src.pas.tetris.agents;
+package pas.tetris.agents;
 
 // SYSTEM IMPORTS
 import java.util.Iterator;
